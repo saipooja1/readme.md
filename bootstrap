@@ -1,0 +1,22 @@
+#bootstrap-documentation
+* css framework
+*Easy integration
+*
+
+
+
+color codes in bootstrap
+primary-blue
+secondary-grey color
+info-skyblu
+danger-red
+success-green
+warning-orange
+dark-black
+white-white
+
+example (background color)
+html
+<h2 class="bg-primary">Blue colored background for text</h2>
+
+<h2 class="text-primary"></h2>
