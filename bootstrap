@@ -20,3 +20,10 @@ html
 <h2 class="bg-primary">Blue colored background for text</h2>
 
 <h2 class="text-primary"></h2>
+
+## Responsive Grid system ###
+'.col'- extra small scale devices
+'col-sm' - small scale devices(>=576px)
+'col-md' - medium scale devices (>=768px)
+'col-lg'- large scale devices (>=992px)
+'col-xl'- extra large scale devices(>=1200px)
